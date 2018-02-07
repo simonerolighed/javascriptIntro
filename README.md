@@ -1,5 +1,7 @@
 # JavaScript Introduktion (2 lektioner)
 
+# Read me fil = fortæller om, hvad der ligger i mappen #
+
 * [Understanding the Github Flow](https://guides.github.com/introduction/flow/)
 * [YouTube: Introduction to Gitkraken](https://www.youtube.com/watch?v=ZKkMwTeAij4)
 * [YouTube: Hvordan man kloner et repository](https://youtu.be/GkYZn7JgPoM)
@@ -10,6 +12,8 @@
 * Krav til Github aflevering
 
 ### Github
+
+### Hej hej hej hej ###
 
 * Fork repo (a. Fork på Github, b. Clone kode via Github) - i dette tilfælde får du en kopi af min kode, som du kan arbejde videre med. 
 * Init repo (Gitkraken: a. lokalt, b. på Github) - i dette tilfælde har du nogen lokale filer, som du vil udvikle med Github som versionskontrol.
